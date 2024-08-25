@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```npn install Reac```
+
+Sistema de registro 2
